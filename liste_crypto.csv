@@ -1,0 +1,369 @@
+﻿BTC;Bitcoin
+WBTC;Wrapped Bitcoin
+USDT;TetherUS
+YFI;yearn.finance
+PAXG;PAX Gold
+ETH;Ethereum
+BETH;BETH
+YFII;DFI.Money
+MKR;Maker
+BIFI;Beefy.Finance
+BNB;BNB
+AUTO;Auto
+BNX;BinaryX
+XMR;Monero
+QNT;Quant
+BCH;Bitcoin Cash
+KP3R;Keep3rV1
+AAVE;Aave
+COMP;Compound
+ILV;Illuvium
+QUICK;QuickSwap
+ZEC;Zcash
+LTC;Litecoin
+EGLD;Elrond eGold
+KSM;Kusama
+DASH;Dash
+FARM;Harvest Finance
+BNBUP;BNBUP
+SOL;Solana
+ETC;Ethereum Classic
+DCR;Decred
+FTT;FTX Token
+ALCX;Alchemix
+BTG;Bitcoin Gold
+MLN;Enzyme
+SANTOS;Santos FC Fan Token
+AVAX;Avalanche
+TRB;Tellor Tributes
+ENS;Ethereum Name Service
+WNXM;Wrapped NXM
+DOTDOWN;DOTDOWN
+NMR;Numeraire
+CREAM;Cream Finance
+ZEN;Horizen
+ATOM;Cosmos
+AXS;Axie Infinity
+SSV;SSV Token
+MOVR;Moonriver
+AR;Arweave
+LPT;Livepeer
+WING;WING
+NEO;NEO
+BTCST;Bitcoin Standard Hashrate Token
+PSG;Paris Saint-Germain Fan Token
+LINK;ChainLink
+REP;Augur v2
+LAZIO;Lazio Fan Token
+CITY;Manchester City Fan Token
+UNI;Uniswap
+AUCTION;Auction
+TORN;Tornado Cash
+DOT;Polkadot
+UNFI;Unifi Protocol DAO
+ICP;Internet Computer
+BAR;FC Barcelona Fan Token BAR
+PORTO;FC Porto Fan Token
+FIL;Filecoin
+PROM;Prometeus
+OG;OG Fan Token
+APE;ApeCoin
+BAL;Balancer
+BOND;BarnBridge
+HNT;Helium
+JUV;Juventus Fan Token
+CVX;Convex Finance
+XVS;Venus
+FORTH;Ampleforth Governance Token
+ATM;Atlético de Madrid Fan Token
+CAKE;PancakeSwap
+FXS;Frax Share
+MULTI;Multichain
+ERN;Ethernity Chain
+ALPINE;Alpine F1 Team Fan Token
+ACM;AC Milan Fan Token
+BTCUP;BTCUP
+ASR;AS Roma Fan Token
+WAVES;Waves
+BADGER;Badger DAO
+PYR;Vulcan Forged PYR
+NEAR;NEAR Protocol
+ETHUP;ETHUP
+DEXE;DeXe
+FIRO;Firo
+QTUM;Qtum
+NEBL;Neblio
+GAL;Galxe
+LUNA;Terra
+SNX;Synthetix Network Token
+UMA;UMA
+GAS;NeoGas
+RAD;RAD
+GTC;Gitcoin
+DEGO;Dego Finance
+OMG;OMG Network
+INJ;Injective Protocol
+ALICE;My Neighbor Alice
+FLOW;Flow
+ANT;Aragon
+API3;API3
+LDO;Lido DAO
+RUNE;THORChain
+KAVA;Kava
+HIGH;Highstreet
+XTZ;Tezos
+KDA;Kadena
+DYDX;dYdX
+BAND;BAND
+TRXDOWN;TRXDOWN
+RLC;iExecRLC
+EOS;EOS
+GHST;Aavegotchi
+KNC;KyberNetwork
+MASK;Mask Network
+ETHDOWN;ETHDOWN
+GBP;Pound Sterling
+ORN;Orion Protocol
+SUSHI;Sushi
+THETA;Theta Token
+MTL;Metal
+BUSD;BUSD
+EUR;Euro
+BURGER;BurgerCities
+LSK;Lisk
+SCRT;Secret
+OP;Optimism
+CRV;Curve
+NEXO;Nexo
+TWT;Trust Wallet Token
+ADAUP;ADAUP
+MOB;MobileCoin
+CTK;Shentu
+SAND;The Sandbox
+PROS;Prosper
+CELO;Celo
+FLUX;Flux
+MATIC;Polygon
+SRM;Serum
+XNO;Nano
+IMX;Immutable X
+AVA;Travala.com
+PHB;PHB
+MANA;Decentraland
+MC;Merit Circle
+GMT;Green Metaverse Token
+AUD;Australian Dollar
+MBOX;MOBOX
+COCOS;Cocos-BCX
+LIT;Litentry
+MINA;Mina
+VGX;Voyager Token
+BEL;Bella Protocol
+1INCH;1inch
+RAY;Raydium
+PERP;Perpetual Protocol
+STG;Stargate Finance
+LOKA;League of Kingdoms
+STRAX;Stratis
+DREP;DREP
+HIVE;Hive
+PUNDIX;Pundi X
+XRP;Ripple
+FIDA;Bonfida
+POLS;Polkastarter
+RNDR;Render Token
+TOMO;TomoChain
+ENJ;Enjin Coin
+STORJ;Storj
+GLMR;Glimmer
+BNT;Bancor
+ADA;Cardano
+BICO;Biconomy
+DIA;DIA
+ARK;Ark
+UFT;UniLend
+SFP;SafePal
+ALGO;Algorand
+C98;Coin98
+SXP;Swipe
+YGG;Yield Guild Games
+CVP;PowerPool
+WTC;Walton
+ONG;Ontology Gas
+SNM;SONM
+STX;Stacks
+AGLD;Adventure Gold
+FIS;Stafi
+PLA;PlayDapp
+BAT;Basic Attention Token
+LRC;Loopring
+ALPACA;Alpaca Finance
+IOTA;IOTA
+GLM;Golem
+BSW;Biswap
+VIDT;VIDT Datalink
+VOXEL;Voxies
+ZRX;0x
+CHESS;Tranchess
+KMD;Komodo
+TKO;Tokocrypto
+CHZ;Chiliz
+PNT;pNetwork
+BAKE;BakeryToken
+POLY;Polymath
+ICX;ICON
+XRPUP;XRPUP
+ONT;Ontology
+FRONT;Frontier
+FTM;Fantom
+JOE;JOE
+STEEM;Steem
+TRIBE;Tribe
+AUDIO;Audius
+DAR;Mines of Dalarnia
+WRX;WazirX
+MIR;Mirror Protocol
+HARD;Kava Lend
+NULS;Nuls
+KLAY;Klaytn
+POWR;PowerLedger
+WAN;Wanchain
+BEAM;Beam
+ACA;Acala Token
+ADX;Ambire AdEx
+SYS;Syscoin
+ATA;Automata
+OCEAN;Ocean Protocol
+DOTUP;DOTUP
+RARE;SuperRare
+CHR;Chromia
+OGN;OriginToken
+CTSI;Cartesi
+WOO;WOO Network
+ELF;aelf
+SUPER;SuperFarm
+CVC;Civic
+AERGO;Aergo
+DODO;DODO
+XLM;Stellar Lumens
+DUSK;Dusk Network
+FLM;Flamingo
+REN;REN
+ALPHA;Alpha Finance Lab
+CTXC;Cortex
+COTI;COTI
+BETA;Beta Finance
+UTK;Utrust
+REQ;Request Network
+OXT;Orchid
+GRT;The Graph
+ARDR;Ardor
+NKN;NKN
+PHA;Phala.Network
+ANC;Anchor Protocol
+CLV;Clover Finance
+BLZ;Bluzelle
+WAXP;WAX
+FET;Fetch.AI
+VIB;Viberate
+LTO;LTO Network
+IDEX;IDEX
+MDX;Mdex
+DOGE;Dogecoin
+ROSE;Oasis Network
+TRX;TRON
+HBAR;Hedera Hashgraph
+RIF;RSK Infrastructure Framework
+TFUEL;Theta Fuel
+LOOM;Loom Network
+TRXUP;TRXUP
+TRU;TrueFi
+FIO;FIO Protocol
+OM;MANTRA
+STPT;Standard Tokenization Protocol
+DNT;district0x
+CFX;Conflux Network
+BNBDOWN;BNBDOWN
+XEM;NEM
+GALA;Gala
+SKL;SKALE Network
+AION;AION
+TVK;Virtua
+ASTR;Astar
+RVN;Ravencoin
+DF;dForce
+BTCDOWN;BTCDOWN
+ARPA;ARPA Chain
+REI;REI Network
+DATA;Streamr
+ZIL;Zilliqa
+USTC;TerraClassicUSD
+ANKR;ANKR
+T;Threshold
+IOTX;IoTeX
+VITE;VITE
+MDT;Measurable Data Token
+JST;JUST
+TLM;Alien Worlds
+VET;VeChain
+PEOPLE;ConstitutionDAO
+MITH;Mithril
+PERL;Perlin
+DOCK;DOCK
+GTO;Gifto
+ONE;Harmony
+FOR;ForTube
+IRIS;IRISnet
+AMB;Ambrosus
+CELR;Celer Network
+LINKUP;LINKUP
+ACH;Alchemy Pay
+IOST;IOST
+POND;Marlin
+BTS;BitShares
+DGB;DigiByte
+QI;BENQI
+RSR;Reserve Rights
+LINA;Linear
+FUN;FunToken
+STMX;StormX
+TCT;TokenClub Token
+JASMY;JasmyCoin
+COS;Contentos
+LINKDOWN;LINKDOWN
+REEF;Reef
+SUN;SUN
+AMP;AMP
+OOKI;OokiDAO
+MFT;Mainframe
+ADADOWN;ADADOWN
+IQ;Everipedia
+NBS;New BitShares
+KEY;Selfkey
+AKRO;Akropolis
+CKB;CKB
+TROY;Troy
+SC;Siacoin
+MBL;MovieBloc
+SLP;Smooth Love Potion
+XVG;Verge
+HOT;Holo
+LEVER;LEVER
+VTHO;VeThor Token
+SPELL;Spell Token
+DENT;DENT
+EPX;Ellipsis
+LUNC;Terra Classic
+XRPDOWN;XRPDOWN
+WIN;WINK
+XEC;eCash
+OAX;openANX
+PIVX;PIVX
+SHIB;SHIBA INU
+WABI;TAEL
+AST;AirSwap
+AGIX;SingularityNET Token
+QLC;QLC Chain
+SNT;Status
+BTTC;BitTorrent
+QKC;QuarkChain
