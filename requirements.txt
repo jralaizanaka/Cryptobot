@@ -1,10 +1,8 @@
 boto3==1.23.10
 matplotlib==3.3.4
-numpy
 pandas==1.1.5
 plotly==5.10.0
 requests==2.27.1
-seaborn==0.11.2
 smart-open==6.2.0
 streamlit==1.10.0
 tensorflow
